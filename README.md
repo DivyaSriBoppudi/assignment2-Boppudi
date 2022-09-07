@@ -17,3 +17,15 @@ The City Palace, one of the most resplendent structures in all Jaipur and the of
 * Baggi Khana
 
 [Know about me here](AboutMe.md)
+****
+# Most Recommended cities to visit
+
+The following table gives the discription of some of my preferred and famous cities you must visit. It provides the location and approximate time your can spend in that particular city.
+
+|City Name|Location to visit|Time to Spend (in Hours)|
+|---:|---:|---:|
+|Jaipur|Hawa Mahal| 4 - 5|
+|Amer|Jaigarh Fort|2|
+|Chennai|Guindy National Park| 5 - 6|
+|Ahmedabad|Auto World Vintage Car Museum|3|
+|Kolkata|Howrah Bridge| 2|
