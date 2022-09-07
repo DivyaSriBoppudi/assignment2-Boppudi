@@ -29,3 +29,11 @@ The following table gives the discription of some of my preferred and famous cit
 |Chennai|Guindy National Park| 5 - 6|
 |Ahmedabad|Auto World Vintage Car Museum|3|
 |Kolkata|Howrah Bridge| 2|
+
+***
+# Motivational Quotes
+> Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too. *-Mark Twain*
+
+> It is better to fail in originality than to succeed in imitation. *-Herman Melville*
+
+> The road to success and the road to failure are almost exactly the same. *-Colin R. Davis*
