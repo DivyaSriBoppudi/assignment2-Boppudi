@@ -9,3 +9,9 @@ The City Palace, one of the most resplendent structures in all Jaipur and the of
 2. It is approximately 12 km from the airport while nearly 5 km from the railway station.
 3. It is situated in the old market area, close to Jantar Mantar. 
 4. You can easily find a cab or rickshaw to take you there from any part of the city.
+
+* Jantar Mantar
+* Tripolia Bazaar
+* Albert Hall Museum
+* Johari Bazaar
+* Baggi Khana
