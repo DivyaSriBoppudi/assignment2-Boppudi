@@ -37,3 +37,28 @@ The following table gives the discription of some of my preferred and famous cit
 > It is better to fail in originality than to succeed in imitation. *-Herman Melville*
 
 > The road to success and the road to failure are almost exactly the same. *-Colin R. Davis*
+
+***
+# Code Fencing
+> How to zoom in SVG picture freely in Flutter
+
+<https://stackoverflow.com/questions/73636979/how-to-zoom-in-svg-picture-freely-in-flutter>
+
+```
+<svg width="100%" height="100%">
+    
+  <!-- Let's define the pattern -->
+  <!-- The width and height should be double the size of a single checker -->
+  <pattern id="pattern-checkers" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+    <!-- Two instances of the same checker, only positioned apart on the `x` and `y` axis -->
+    <!-- We will define the `fill` in the CSS for flexible use -->
+    <rect class="checker" x="0" width="100" height="100" y="0"></rect>
+    <rect class="checker" x="100" width="100" height="100" y="100"></rect>
+  </pattern>
+  
+  <!-- Define the shape that will contain our pattern as the fill -->
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-checkers)"></rect>
+  
+</svg>
+```
+<https://css-tricks.com/snippets/svg/svg-patterns/>
